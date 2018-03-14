@@ -1,0 +1,2 @@
+module.exports.FACILITY_STORAGE_CAPACITY = 256;
+

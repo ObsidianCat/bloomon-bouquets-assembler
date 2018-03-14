@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f1e95fe-54b8-4cf3-8ea3-1ee0dad0d5af" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="assembling-line.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assembling-line.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding>
+                <element signature="e#86#134#0" expanded="false" />
+                <element signature="e#165#228#0" expanded="false" />
+                <element signature="e#359#497#0" expanded="false" />
+                <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="e#830#1282#0" expanded="false" />
+                <element signature="e#991#1036#0" expanded="false" />
+                <element signature="e#1054#1272#0" expanded="false" />
+                <element signature="e#1292#1329#0" expanded="false" />
+                <element signature="e#1425#2219#0" expanded="false" />
+                <element signature="e#1480#2209#0" expanded="false" />
+                <element signature="e#1581#2195#0" expanded="false" />
+                <element signature="e#1636#1917#0" expanded="false" />
+                <element signature="e#1943#2177#0" expanded="false" />
+                <element signature="e#2251#2288#0" expanded="false" />
+                <element signature="e#2302#2415#0" expanded="false" />
+                <element signature="e#2425#3194#0" expanded="false" />
+                <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="e#3502#3589#0" expanded="false" />
+                <element signature="e#3633#3724#0" expanded="false" />
+                <element signature="e#3729#3787#0" expanded="false" />
+                <element signature="e#3804#3862#0" expanded="false" />
+                <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="e#4795#5155#0" expanded="false" />
+                <element signature="e#4858#4984#0" expanded="false" />
+                <element signature="e#4990#5145#0" expanded="false" />
+                <element signature="e#5172#5247#0" expanded="false" />
+                <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="e#5491#6134#0" expanded="false" />
+                <element signature="e#5726#5794#0" expanded="false" />
+                <element signature="e#5834#6123#0" expanded="false" />
+                <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+                <element signature="e#6503#6786#0" expanded="false" />
+                <element signature="e#6649#6776#0" expanded="false" />
+                <element signature="e#6850#6940#0" expanded="false" />
+                <element signature="e#6945#6982#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assembling-line.test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>design</find>
+      <find>parseFlowerTypesInDesig</find>
+      <find>endOfFlowersTypes</find>
+      <find>.set</find>
+      <find>S</find>
+      <find>'S'</find>
+      <find>flowersOutsideOfDesigns</find>
+      <find>console.log</find>
+      <find>AS10a10b5a</find>
+      <find>floralStorage =</find>
+      <find>s</find>
+      <find>!isNaN</find>
+      <find>checkIfValusIsNumber</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>parseFlowerTypesInDesign</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/assembling-line-2.js" />
+        <option value="$PROJECT_DIR$/inputs-parser.js" />
+        <option value="$PROJECT_DIR$/constants.js" />
+        <option value="$PROJECT_DIR$/assembling-line.test.js" />
+        <option value="$PROJECT_DIR$/.dockerignore" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/assembling-line.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bloomon-bouquets-assembler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bloomon-bouquets-assembler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="SearchEverywhereHistoryKey" value="assembling-line.js&#9;FILE&#9;file:///Users/lleus/Documents/GitHub/bloomon-bouquets-assembler/assembling-line.js" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.Jest Test">
+    <configuration name="Jest Test" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+    </configuration>
+    <configuration name="assembling-line.test.js" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/assembling-line.test.js" />
+    </configuration>
+    <configuration name="bouquets rules inputs are correctly parsed into designs.Large design" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/assembling-line.test.js" />
+      <test-names>
+        <test-name value="bouquets rules inputs are correctly parsed into designs" />
+        <test-name value="Large design" />
+      </test-names>
+    </configuration>
+    <configuration name="calling assembly method of assembign line should return true" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/assembling-line.test.js" />
+      <test-names>
+        <test-name value="calling assembly method of assembign line should return true" />
+      </test-names>
+    </configuration>
+    <configuration name="calling assembly method of assemblign line should return true" type="JavaScriptTestRunnerJest" factoryName="Jest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/assembling-line.test.js" />
+      <test-names>
+        <test-name value="calling assembly method of assemblign line should return true" />
+      </test-names>
+    </configuration>
+    <configuration name="NodeConfig" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Jest.Jest Test" />
+      <item index="1" class="java.lang.String" itemvalue="Jest.calling assembly method of assembign line should return true" />
+      <item index="2" class="java.lang.String" itemvalue="Jest.assembling-line.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Jest.calling assembly method of assemblign line should return true" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.NodeConfig" />
+      <item index="5" class="java.lang.String" itemvalue="Jest.bouquets rules inputs are correctly parsed into designs.Large design" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Jest.bouquets rules inputs are correctly parsed into designs.Large design" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.NodeConfig" />
+        <item index="2" class="java.lang.String" itemvalue="Jest.calling assembly method of assemblign line should return true" />
+        <item index="3" class="java.lang.String" itemvalue="Jest.assembling-line.test.js" />
+        <item index="4" class="java.lang.String" itemvalue="Jest.calling assembly method of assembign line should return true" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f1e95fe-54b8-4cf3-8ea3-1ee0dad0d5af" name="Default" comment="" />
+      <created>1520879614993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520879614993</updated>
+      <workItem from="1520879618415" duration="2128000" />
+      <workItem from="1520962862546" duration="16000" />
+      <workItem from="1520962909153" duration="8845000" />
+      <workItem from="1521017866320" duration="22111000" />
+      <workItem from="1521057519109" duration="1352000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Jest_Test - 2018.03.14 at 21h 21m 23s.xml">
+      <configuration name="Jest Test" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="assembling-line_test_js - 2018.03.14 at 18h 27m 48s.xml">
+      <configuration name="assembling-line.test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="bouquets_rules_inputs_are_correctly_parsed_into_designs_Large_design - 2018.03.14 at 20h 03m 04s.xml">
+      <configuration name="bouquets rules inputs are correctly parsed into designs.Large design" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="bouquets_rules_inputs_are_correctly_parsed_into_designs_Large_design - 2018.03.14 at 20h 04m 36s.xml">
+      <configuration name="bouquets rules inputs are correctly parsed into designs.Large design" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="calling_assembly_method_of_assembign_line_should_return_true - 2018.03.14 at 18h 26m 10s.xml">
+      <configuration name="calling assembly method of assembign line should return true" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="calling_assembly_method_of_assembign_line_should_return_true - 2018.03.14 at 18h 27m 00s.xml">
+      <configuration name="calling assembly method of assembign line should return true" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="calling_assembly_method_of_assemblign_line_should_return_true - 2018.03.14 at 18h 27m 14s.xml">
+      <configuration name="calling assembly method of assemblign line should return true" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="calling_assembly_method_of_assemblign_line_should_return_true - 2018.03.14 at 18h 27m 26s.xml">
+      <configuration name="calling assembly method of assemblign line should return true" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="calling_assembly_method_of_assemblign_line_should_return_true - 2018.03.14 at 19h 49m 28s.xml">
+      <configuration name="calling assembly method of assemblign line should return true" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="calling_assembly_method_of_assemblign_line_should_return_true - 2018.03.14 at 19h 50m 52s.xml">
+      <configuration name="calling assembly method of assemblign line should return true" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34452000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17791899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5089409" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37964237" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="500" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assembling-line.test.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assembling-line.js</url>
+          <line>100</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assembling-line.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/assembling-line.js</url>
+          <line>108</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>design.flowers.keys()</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.floralStorage</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.floralStorage[flowerSize]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>placeInStorage</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.designs[flowerSize]</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.designs[flowerSize].</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.parseFlowerInput</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>console.log(SIZE_LARGE)</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
+          <folding>
+            <element signature="e#86#134#0" expanded="false" />
+            <element signature="e#165#228#0" expanded="false" />
+            <element signature="e#359#497#0" expanded="false" />
+            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#3502#3589#0" expanded="false" />
+            <element signature="e#3633#3724#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="e#3804#3862#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#6503#6786#0" expanded="false" />
+            <element signature="e#6649#6776#0" expanded="false" />
+            <element signature="e#6850#6940#0" expanded="false" />
+            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="75" lean-forward="true" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="72" column="5" lean-forward="false" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+          <folding>
+            <element signature="e#86#134#0" expanded="false" />
+            <element signature="e#165#228#0" expanded="false" />
+            <element signature="e#359#497#0" expanded="false" />
+            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#3502#3589#0" expanded="false" />
+            <element signature="e#3633#3724#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="e#3804#3862#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#6503#6786#0" expanded="false" />
+            <element signature="e#6649#6776#0" expanded="false" />
+            <element signature="e#6850#6940#0" expanded="false" />
+            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="71" lean-forward="true" selection-start-line="10" selection-start-column="71" selection-end-line="10" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#86#134#0" expanded="false" />
+            <element signature="e#165#228#0" expanded="false" />
+            <element signature="e#359#497#0" expanded="false" />
+            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#3502#3589#0" expanded="false" />
+            <element signature="e#3633#3724#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="e#3804#3862#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#6503#6786#0" expanded="false" />
+            <element signature="e#6649#6776#0" expanded="false" />
+            <element signature="e#6850#6940#0" expanded="false" />
+            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#86#134#0" expanded="false" />
+            <element signature="e#165#228#0" expanded="false" />
+            <element signature="e#359#497#0" expanded="false" />
+            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#3502#3589#0" expanded="false" />
+            <element signature="e#3633#3724#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="e#3804#3862#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#6503#6786#0" expanded="false" />
+            <element signature="e#6649#6776#0" expanded="false" />
+            <element signature="e#6850#6940#0" expanded="false" />
+            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#86#134#0" expanded="false" />
+            <element signature="e#165#228#0" expanded="false" />
+            <element signature="e#359#497#0" expanded="false" />
+            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#3502#3589#0" expanded="false" />
+            <element signature="e#3633#3724#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="e#3804#3862#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#6503#6786#0" expanded="false" />
+            <element signature="e#6649#6776#0" expanded="false" />
+            <element signature="e#6850#6940#0" expanded="false" />
+            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1162">
+          <caret line="878" column="4" lean-forward="false" selection-start-line="878" selection-start-column="4" selection-end-line="878" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.dockerignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="1005" column="2" lean-forward="true" selection-start-line="1005" selection-start-column="2" selection-end-line="1005" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="e#86#134#0" expanded="false" />
+            <element signature="e#165#228#0" expanded="false" />
+            <element signature="e#359#497#0" expanded="false" />
+            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#3502#3589#0" expanded="false" />
+            <element signature="e#3633#3724#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="e#3804#3862#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#6503#6786#0" expanded="false" />
+            <element signature="e#6649#6776#0" expanded="false" />
+            <element signature="e#6850#6940#0" expanded="false" />
+            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
