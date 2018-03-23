@@ -3,7 +3,8 @@ const FACILITY_STORAGE_CAPACITY = require('./constants').FACILITY_STORAGE_CAPACI
 const readline = require('readline');
 
 const rl = readline.createInterface({
-    input: process.stdin
+    input: process.stdin,
+    output: process.stdout
 
 });
 

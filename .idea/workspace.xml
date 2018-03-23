@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f1e95fe-54b8-4cf3-8ea3-1ee0dad0d5af" name="Default" comment="" />
+    <list default="true" id="6f1e95fe-54b8-4cf3-8ea3-1ee0dad0d5af" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/docker" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change beforePath="$PROJECT_DIR$/inputs-parser.js" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,13 +22,9 @@
       <file leaf-file-name="assembling-line.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assembling-line.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="30">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding>
-                <element signature="e#86#134#0" expanded="false" />
-                <element signature="e#165#228#0" expanded="false" />
-                <element signature="e#359#497#0" expanded="false" />
-                <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
                 <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
                 <element signature="e#830#1282#0" expanded="false" />
                 <element signature="e#991#1036#0" expanded="false" />
@@ -37,11 +38,7 @@
                 <element signature="e#2251#2288#0" expanded="false" />
                 <element signature="e#2302#2415#0" expanded="false" />
                 <element signature="e#2425#3194#0" expanded="false" />
-                <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-                <element signature="e#3502#3589#0" expanded="false" />
-                <element signature="e#3633#3724#0" expanded="false" />
                 <element signature="e#3729#3787#0" expanded="false" />
-                <element signature="e#3804#3862#0" expanded="false" />
                 <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
                 <element signature="e#4795#5155#0" expanded="false" />
                 <element signature="e#4858#4984#0" expanded="false" />
@@ -52,41 +49,16 @@
                 <element signature="e#5726#5794#0" expanded="false" />
                 <element signature="e#5834#6123#0" expanded="false" />
                 <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-                <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-                <element signature="e#6503#6786#0" expanded="false" />
-                <element signature="e#6649#6776#0" expanded="false" />
-                <element signature="e#6850#6940#0" expanded="false" />
-                <element signature="e#6945#6982#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.js">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assembling-line.test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="150">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -116,10 +88,15 @@
       <find>s</find>
       <find>!isNaN</find>
       <find>checkIfValusIsNumber</find>
+      <find>FACILITY_STORAGE_CAPACITY</find>
+      <find>capacity</find>
     </findStrings>
     <replaceStrings>
       <replace>parseFlowerTypesInDesign</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -131,8 +108,8 @@
         <option value="$PROJECT_DIR$/assembling-line.test.js" />
         <option value="$PROJECT_DIR$/.dockerignore" />
         <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/assembling-line.js" />
+        <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -150,8 +127,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -170,7 +147,9 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -186,8 +165,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,6 +289,10 @@
       <workItem from="1520962909153" duration="8845000" />
       <workItem from="1521017866320" duration="22111000" />
       <workItem from="1521057519109" duration="1352000" />
+      <workItem from="1521559700425" duration="2079000" />
+      <workItem from="1521567186669" duration="452000" />
+      <workItem from="1521625100084" duration="617000" />
+      <workItem from="1521820624619" duration="43000" />
     </task>
     <servers />
   </component>
@@ -346,7 +329,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34452000" />
+    <option name="totallyTimeSpent" value="37643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,21 +341,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17791899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15715292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5089409" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37964237" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21331689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37964237" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -401,22 +383,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/assembling-line.js</url>
-          <line>100</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/assembling-line.js</url>
           <line>44</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/assembling-line.js</url>
-          <line>108</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.js</url>
-          <line>16</line>
+          <line>17</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
@@ -479,15 +451,62 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15075">
+          <caret line="1005" column="2" lean-forward="true" selection-start-line="1005" selection-start-column="2" selection-end-line="1005" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assembling-line.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding>
-            <element signature="e#86#134#0" expanded="false" />
-            <element signature="e#165#228#0" expanded="false" />
-            <element signature="e#359#497#0" expanded="false" />
-            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
             <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#830#1282#0" expanded="false" />
             <element signature="e#991#1036#0" expanded="false" />
@@ -501,11 +520,7 @@
             <element signature="e#2251#2288#0" expanded="false" />
             <element signature="e#2302#2415#0" expanded="false" />
             <element signature="e#2425#3194#0" expanded="false" />
-            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#3502#3589#0" expanded="false" />
-            <element signature="e#3633#3724#0" expanded="false" />
             <element signature="e#3729#3787#0" expanded="false" />
-            <element signature="e#3804#3862#0" expanded="false" />
             <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#4795#5155#0" expanded="false" />
             <element signature="e#4858#4984#0" expanded="false" />
@@ -516,11 +531,186 @@
             <element signature="e#5726#5794#0" expanded="false" />
             <element signature="e#5834#6123#0" expanded="false" />
             <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#6503#6786#0" expanded="false" />
-            <element signature="e#6649#6776#0" expanded="false" />
-            <element signature="e#6850#6940#0" expanded="false" />
-            <element signature="e#6945#6982#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15075">
+          <caret line="1005" column="2" lean-forward="true" selection-start-line="1005" selection-start-column="2" selection-end-line="1005" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="204" column="29" lean-forward="true" selection-start-line="204" selection-start-column="29" selection-end-line="204" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="82" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="126" column="27" lean-forward="false" selection-start-line="126" selection-start-column="27" selection-end-line="126" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#830#1282#0" expanded="false" />
+            <element signature="e#991#1036#0" expanded="false" />
+            <element signature="e#1054#1272#0" expanded="false" />
+            <element signature="e#1292#1329#0" expanded="false" />
+            <element signature="e#1425#2219#0" expanded="false" />
+            <element signature="e#1480#2209#0" expanded="false" />
+            <element signature="e#1581#2195#0" expanded="false" />
+            <element signature="e#1636#1917#0" expanded="false" />
+            <element signature="e#1943#2177#0" expanded="false" />
+            <element signature="e#2251#2288#0" expanded="false" />
+            <element signature="e#2302#2415#0" expanded="false" />
+            <element signature="e#2425#3194#0" expanded="false" />
+            <element signature="e#3729#3787#0" expanded="false" />
+            <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#4795#5155#0" expanded="false" />
+            <element signature="e#4858#4984#0" expanded="false" />
+            <element signature="e#4990#5145#0" expanded="false" />
+            <element signature="e#5172#5247#0" expanded="false" />
+            <element signature="n#!!block;n#parseFlowerTypesInDesign#0;n#AssemblingLine#0" expanded="false" />
+            <element signature="e#5491#6134#0" expanded="false" />
+            <element signature="e#5726#5794#0" expanded="false" />
+            <element signature="e#5834#6123#0" expanded="false" />
+            <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -529,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -562,10 +751,6 @@
         <state relative-caret-position="825">
           <caret line="72" column="5" lean-forward="false" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
           <folding>
-            <element signature="e#86#134#0" expanded="false" />
-            <element signature="e#165#228#0" expanded="false" />
-            <element signature="e#359#497#0" expanded="false" />
-            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
             <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#830#1282#0" expanded="false" />
             <element signature="e#991#1036#0" expanded="false" />
@@ -579,11 +764,7 @@
             <element signature="e#2251#2288#0" expanded="false" />
             <element signature="e#2302#2415#0" expanded="false" />
             <element signature="e#2425#3194#0" expanded="false" />
-            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#3502#3589#0" expanded="false" />
-            <element signature="e#3633#3724#0" expanded="false" />
             <element signature="e#3729#3787#0" expanded="false" />
-            <element signature="e#3804#3862#0" expanded="false" />
             <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#4795#5155#0" expanded="false" />
             <element signature="e#4858#4984#0" expanded="false" />
@@ -594,11 +775,6 @@
             <element signature="e#5726#5794#0" expanded="false" />
             <element signature="e#5834#6123#0" expanded="false" />
             <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#6503#6786#0" expanded="false" />
-            <element signature="e#6649#6776#0" expanded="false" />
-            <element signature="e#6850#6940#0" expanded="false" />
-            <element signature="e#6945#6982#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -607,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,10 +807,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#86#134#0" expanded="false" />
-            <element signature="e#165#228#0" expanded="false" />
-            <element signature="e#359#497#0" expanded="false" />
-            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
             <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#830#1282#0" expanded="false" />
             <element signature="e#991#1036#0" expanded="false" />
@@ -649,11 +820,7 @@
             <element signature="e#2251#2288#0" expanded="false" />
             <element signature="e#2302#2415#0" expanded="false" />
             <element signature="e#2425#3194#0" expanded="false" />
-            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#3502#3589#0" expanded="false" />
-            <element signature="e#3633#3724#0" expanded="false" />
             <element signature="e#3729#3787#0" expanded="false" />
-            <element signature="e#3804#3862#0" expanded="false" />
             <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#4795#5155#0" expanded="false" />
             <element signature="e#4858#4984#0" expanded="false" />
@@ -664,11 +831,6 @@
             <element signature="e#5726#5794#0" expanded="false" />
             <element signature="e#5834#6123#0" expanded="false" />
             <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#6503#6786#0" expanded="false" />
-            <element signature="e#6649#6776#0" expanded="false" />
-            <element signature="e#6850#6940#0" expanded="false" />
-            <element signature="e#6945#6982#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -693,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -702,10 +863,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#86#134#0" expanded="false" />
-            <element signature="e#165#228#0" expanded="false" />
-            <element signature="e#359#497#0" expanded="false" />
-            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
             <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#830#1282#0" expanded="false" />
             <element signature="e#991#1036#0" expanded="false" />
@@ -719,11 +876,7 @@
             <element signature="e#2251#2288#0" expanded="false" />
             <element signature="e#2302#2415#0" expanded="false" />
             <element signature="e#2425#3194#0" expanded="false" />
-            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#3502#3589#0" expanded="false" />
-            <element signature="e#3633#3724#0" expanded="false" />
             <element signature="e#3729#3787#0" expanded="false" />
-            <element signature="e#3804#3862#0" expanded="false" />
             <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#4795#5155#0" expanded="false" />
             <element signature="e#4858#4984#0" expanded="false" />
@@ -734,11 +887,6 @@
             <element signature="e#5726#5794#0" expanded="false" />
             <element signature="e#5834#6123#0" expanded="false" />
             <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#6503#6786#0" expanded="false" />
-            <element signature="e#6649#6776#0" expanded="false" />
-            <element signature="e#6850#6940#0" expanded="false" />
-            <element signature="e#6945#6982#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -763,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="47" lean-forward="true" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,10 +919,6 @@
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#86#134#0" expanded="false" />
-            <element signature="e#165#228#0" expanded="false" />
-            <element signature="e#359#497#0" expanded="false" />
-            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
             <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#830#1282#0" expanded="false" />
             <element signature="e#991#1036#0" expanded="false" />
@@ -789,11 +932,7 @@
             <element signature="e#2251#2288#0" expanded="false" />
             <element signature="e#2302#2415#0" expanded="false" />
             <element signature="e#2425#3194#0" expanded="false" />
-            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#3502#3589#0" expanded="false" />
-            <element signature="e#3633#3724#0" expanded="false" />
             <element signature="e#3729#3787#0" expanded="false" />
-            <element signature="e#3804#3862#0" expanded="false" />
             <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#4795#5155#0" expanded="false" />
             <element signature="e#4858#4984#0" expanded="false" />
@@ -804,27 +943,7 @@
             <element signature="e#5726#5794#0" expanded="false" />
             <element signature="e#5834#6123#0" expanded="false" />
             <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#6503#6786#0" expanded="false" />
-            <element signature="e#6649#6776#0" expanded="false" />
-            <element signature="e#6850#6940#0" expanded="false" />
-            <element signature="e#6945#6982#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inputs-parser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -840,6 +959,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -848,43 +982,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="1005" column="2" lean-forward="true" selection-start-line="1005" selection-start-column="2" selection-end-line="1005" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="15">
+          <caret line="1" column="82" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15075">
+          <caret line="1005" column="2" lean-forward="true" selection-start-line="1005" selection-start-column="2" selection-end-line="1005" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inputs-parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assembling-line.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding>
-            <element signature="e#86#134#0" expanded="false" />
-            <element signature="e#165#228#0" expanded="false" />
-            <element signature="e#359#497#0" expanded="false" />
-            <element signature="n#!!block;n#getDesigns#0;n#AssemblingLine#0" expanded="false" />
             <element signature="n#!!block;n#tryArrangeBouquet#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#830#1282#0" expanded="false" />
             <element signature="e#991#1036#0" expanded="false" />
@@ -898,11 +1052,7 @@
             <element signature="e#2251#2288#0" expanded="false" />
             <element signature="e#2302#2415#0" expanded="false" />
             <element signature="e#2425#3194#0" expanded="false" />
-            <element signature="n#!!block;n#parseFlowerInput#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#3502#3589#0" expanded="false" />
-            <element signature="e#3633#3724#0" expanded="false" />
             <element signature="e#3729#3787#0" expanded="false" />
-            <element signature="e#3804#3862#0" expanded="false" />
             <element signature="n#!!block;n#parseDesignInput#0;n#AssemblingLine#0" expanded="false" />
             <element signature="e#4795#5155#0" expanded="false" />
             <element signature="e#4858#4984#0" expanded="false" />
@@ -913,27 +1063,22 @@
             <element signature="e#5726#5794#0" expanded="false" />
             <element signature="e#5834#6123#0" expanded="false" />
             <element signature="n#!!block;n#checkIfValusIsNumber#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="n#!!block;n#assemble#0;n#AssemblingLine#0" expanded="false" />
-            <element signature="e#6503#6786#0" expanded="false" />
-            <element signature="e#6649#6776#0" expanded="false" />
-            <element signature="e#6850#6940#0" expanded="false" />
-            <element signature="e#6945#6982#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assembling-line.test.js">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="75" lean-forward="false" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/docker">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
